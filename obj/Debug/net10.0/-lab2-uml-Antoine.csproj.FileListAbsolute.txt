@@ -1,0 +1,15 @@
+/workspaces/-lab2-uml-Antoine/bin/Debug/net10.0/-lab2-uml-Antoine
+/workspaces/-lab2-uml-Antoine/bin/Debug/net10.0/-lab2-uml-Antoine.deps.json
+/workspaces/-lab2-uml-Antoine/bin/Debug/net10.0/-lab2-uml-Antoine.runtimeconfig.json
+/workspaces/-lab2-uml-Antoine/bin/Debug/net10.0/-lab2-uml-Antoine.dll
+/workspaces/-lab2-uml-Antoine/bin/Debug/net10.0/-lab2-uml-Antoine.pdb
+/workspaces/-lab2-uml-Antoine/obj/Debug/net10.0/-lab2-uml-Antoine.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/-lab2-uml-Antoine/obj/Debug/net10.0/-lab2-uml-Antoine.AssemblyInfoInputs.cache
+/workspaces/-lab2-uml-Antoine/obj/Debug/net10.0/-lab2-uml-Antoine.AssemblyInfo.cs
+/workspaces/-lab2-uml-Antoine/obj/Debug/net10.0/-lab2-uml-Antoine.csproj.CoreCompileInputs.cache
+/workspaces/-lab2-uml-Antoine/obj/Debug/net10.0/-lab2-uml-Antoine.sourcelink.json
+/workspaces/-lab2-uml-Antoine/obj/Debug/net10.0/-lab2-uml-Antoine.dll
+/workspaces/-lab2-uml-Antoine/obj/Debug/net10.0/refint/-lab2-uml-Antoine.dll
+/workspaces/-lab2-uml-Antoine/obj/Debug/net10.0/-lab2-uml-Antoine.pdb
+/workspaces/-lab2-uml-Antoine/obj/Debug/net10.0/-lab2-uml-Antoine.genruntimeconfig.cache
+/workspaces/-lab2-uml-Antoine/obj/Debug/net10.0/ref/-lab2-uml-Antoine.dll
